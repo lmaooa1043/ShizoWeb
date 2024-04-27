@@ -1,9 +1,9 @@
 # main text of home
 title: 7rab
-bio: 7rab#0 on discord | Developing the most advanced Speed City script..
+bio: Developing the most advanced Speed City script..
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 7rab - Developing the most advanced Speed City script..
 
 # if it's an external image, update below for true
 # better with square images
@@ -68,7 +68,7 @@ width: normal
 #blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: false
