@@ -42,7 +42,7 @@ disqus:
 #email: myemail@gmail.com
 
 authors:
-  7rab:
+  johndoe:
     name: 7rab
     bio: LUA UI Developer, Loves making scripts
     external-image: false
